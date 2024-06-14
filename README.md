@@ -27,14 +27,14 @@ Note: could not complete part 4 due to limited computational resources (the code
 ### 5. run evaluation script to generate average reward metric results and all model evaluations 
     - python algorithms_evaluation.py
 
-### 7. Execute code in report_part3.ipynb to run the code and generate the final results for report_part3
+### 7. Execute code in `report_part3.ipynb` to run the code and generate the final results for report_part3
 
-### 8. run cartpole training script and generate `cartpole_project` folder & 3 metrics results for A2C, PPO, DQN implementation 
+### 8. run cartpole training script and generate `cartpole_project` folder & 3 metrics results for new algorithms A2C, PPO, DQN and environment implementation 
     - python cartpole_algorithms.py
 
 ### Note: this requires large computation resources, I ran the script for several days in both local and google doc and it is still running, thus unable to complete implementation of new algorithms on the new environments and do report4. If you choose to run code on google collab go to "cartpole_algorithms.py" file and comment lines 16-19 and uncomment lines 22-26 to save output to your google drive or uncomment lines 30-33 to save outputs to local on google collab
 
-### 9. run evaluation script to generate average reward metric results and all (A2C, PPO, DQN) model evaluations 
+### 9. run evaluation script to generate average reward metric results and all (A2C, PPO, DQN) model evaluations for new algorithms and environment implementation
     - python cartpolealgothinms_evaluation.py
 
 
