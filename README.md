@@ -16,7 +16,7 @@ Note: could not complete part 4 due to limited computational resources (the code
 
 ### 3. install all packages/dependencies 
 
-- #### 3.a) open terminal and execute the following commands in the root directory of the project
+- #### 3.a) open terminal, cd into part 2 folder `cd part2` and execute the following commands in the `part2` directory of the project
     - python -m venv a8_l8
     - source a8_l8/bin/activate     
     - pip install -r requirements.txt
