@@ -37,4 +37,9 @@ Note: could not complete part 4 due to limited computational resources (the code
 ### 9. run evaluation script to generate average reward metric results and all (A2C, PPO, DQN) model evaluations for new algorithms and environment implementation
     - python cartpolealgothinms_evaluation.py
 
-
+# References:
+- https://stable-baselines3.readthedocs.io/en/master/guide/rl_zoo.html
+- https://github.com/DLR-RM/stable-baselines3
+- https://github.com/DLR-RM/rl-trained-agents
+- https://docs.python.org/3/library/venv.html
+- https://neptune.ai/blog/google-colab-dealing-with-files
