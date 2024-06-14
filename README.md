@@ -6,17 +6,17 @@ Note: could not complete part 4 due to limited computational resources (the code
 
 # Instructions to run code
 
-### 1. in file "lunar_lander_dqn.py" modify path in line 14 to a path output on your system for dqn_qlearning_sarsa folder
+### 1. in file "lunar_lander_dqn.py" modify path in line 14 to a path output on your system for dqn_qlearning_sarsa folder to be stored
 
 - Line 14: project_base_path = "/Users/computername/desiredOutputPath" 
 
-### 2. in file "cartpole_algorithms.py" modify path in line 16 to a path output on your system for dqn_a2c_ppo folder
+### 2. in file "cartpole_algorithms.py" modify path in line 16 to a path output on your system for dqn_a2c_ppo folder to be stored
 
 - Line 16: project_base_path = "/Users/computername/desiredOutputPath" 
 
 ### 3. install all packages/dependencies 
 
-- 3.a) open terminal and execute the following commands in the root directory of the project
+- #### 3.a) open terminal and execute the following commands in the root directory of the project
     - python -m venv a8_l8
     - source a8_l8/bin/activate     
     - pip install -r requirements.txt
